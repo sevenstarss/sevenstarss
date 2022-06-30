@@ -1,14 +1,13 @@
 # Senior Mobile App Developer
 
-As a senior mobile app developer who is always passionate about learning more about tech and life. I have been developing mobile apps. From those humble beginnings, I have evolved into a Senior Mobile Engineer who loves working with cutting-edge tools and technologies, experimenting with design, development, and keen to share my experience with people around the world. I, like any developer who has burnt the midnight oil, knows how to make a mean cup of coffee ☕️ ! 
+I help business take advantages through a mobile application which is created with the use of modern technologies. Not only compliance with up-to-date Google design standard is on principal, but also bringing passion to perfect UI and UX into every project.
 
-  * � &nbsp; Works as Senior Mobile Engineer, a multinational data and software company.
-  * � &nbsp; Current Stack Android App Development(Kotlin, Java), iOS App Development(Swift) , Backend Development (Node.js, Firebase, AWS), etc`.
-  * � &nbsp; Learning about `Crypocurrency`
-  * � &nbsp; Looking forward to working with SaaS Startups.
-  * � &nbsp; Contribute to Open Source Projects
+I am prepared to share invaluable experience in all areas related to Android from 'Analytics' to 'supporting all Android versions' and give deep expertise in nuances as well as ready to work with Scrum or any other Agile development methodology. I strongly believe that when done right, a modern and well mannered mobile application can provide your customers with a great way to access your product and services.
 
-<br />
-� &nbsp; Feel free to contact me. I am always there for you...
+However, creating and maintaining a modern mobile application can be a risky venture. There are procedural risks, technical and other hacks in hiring a credible person. That's where I come in, I stand out in creating mobile applications for startups and established companies using the cutting edge technologies and engineering models. I will strive to provide an outstanding application that will be free from all odds and also minimize the factors that break your budget.
+
+I am highly qualified and credible in Requirement Analysis, Design Thinking Concepts and implementing applications using latest technologies like Android (Native) Java, Kotlin, React Native, Flutter, .
+
+I always forward to building a long term professional relationship of mutual trust and benefit with clients.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sevenstarss&show_icons=true&theme=radical&count_private=true)
